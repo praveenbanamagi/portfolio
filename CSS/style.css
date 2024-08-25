@@ -1,0 +1,21 @@
+
+
+.navbar-nav a{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-weight: bold;
+}
+
+.bg-custom{
+    background-color: red;
+}
+
+.odd{
+    background-color: orange
+}
+
+
+.gap{
+ padding-top: 90px;
+ padding-bottom: 90px;
+}
